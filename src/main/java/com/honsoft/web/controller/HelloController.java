@@ -8,7 +8,6 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.servlet.ModelAndView;
 import org.springframework.web.servlet.mvc.AbstractController;
 
-@Controller
 public class HelloController extends AbstractController{
 	private String hello = "hello";
 	
